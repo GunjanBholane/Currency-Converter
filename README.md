@@ -10,8 +10,11 @@ Choose the target currency into which the amount will be converted.
 View the converted amount based on the latest exchange rates.
 Clear all fields with a single button click.
 SEE OUTPUT=
+
+
 ![image](https://github.com/GunjanBholane/Currency-Converter/assets/152423360/9f2443f2-f744-4d18-9e10-ff23121dd3f8)
 
+OUTPUT
 
 Key Components:
 User Interface: Built using tkinter, the interface includes labeled input fields for amount, drop-down menus for selecting currencies, and buttons for conversion and clearing.
