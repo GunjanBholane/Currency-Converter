@@ -27,6 +27,14 @@ Additional Features:
 
 Link to "Country Names" provides additional information or resources related to currencies (in this case, opening a web page).
 Styling is applied using tkinter's widget properties to enhance visual appeal and usability.
+![image](https://github.com/GunjanBholane/Currency-Converter/assets/152423360/8de15ab3-9ea9-4bab-8306-3562b9a8b4fb)
+
+
+*Countries with Currency Codes* 
+
+
+
+
 Workflow:
 Input: Users enter an amount, select the source and target currencies from dropdown menus.
 
