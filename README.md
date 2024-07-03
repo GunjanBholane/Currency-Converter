@@ -30,7 +30,7 @@ Styling is applied using tkinter's widget properties to enhance visual appeal an
 ![image](https://github.com/GunjanBholane/Currency-Converter/assets/152423360/8de15ab3-9ea9-4bab-8306-3562b9a8b4fb)
 
 
-*Countries with Currency Codes* 
+24*Countries with Currency Codes* 
 
 
 
